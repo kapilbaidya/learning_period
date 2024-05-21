@@ -17,9 +17,10 @@ class Veriables {
     System.out.println(blood);
 
     boolean boy;
+    boolean girl;
     boy = true;
     girl = false;
-    system.out.println(boy);
+    System.out.println(boy);
   }
 }
 
